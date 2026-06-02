@@ -1,0 +1,26 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Projeto para treino de programação do curso \"curso.dev\"",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aavMATOS/clone-tabnews.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aavMATOS/clone-tabnews/issues"
+  },
+  "homepage": "https://github.com/aavMATOS/clone-tabnews#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
